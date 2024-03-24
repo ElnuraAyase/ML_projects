@@ -1,1 +1,11 @@
+# Sample dataset: Fruit weight (in grams) and corresponding fruit type (0 for apple, 1 for orange)
+X = [100, 150, 200, 250, 300]  # Fruit weights
+y = [0, 0, 1, 1, 1]             # Fruit types (0: apple, 1: orange)
+
+# Simple linear regression equation: y = mx + b
+# For simplicity, we'll manually define slope (m) and intercept (b)
+m = 0.01  # Slope
+b = -1    # Intercept
+
+
 
